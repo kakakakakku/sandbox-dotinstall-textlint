@@ -1,5 +1,7 @@
 version: 1
 
 rules:
-  - pattern: javascript
+  - pattern:
+      - javascript
+      - java script
     expected: JavaScript

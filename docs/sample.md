@@ -1,1 +1,1 @@
-javascript、楽しいな
+javascriptってjava scriptだっけ？
