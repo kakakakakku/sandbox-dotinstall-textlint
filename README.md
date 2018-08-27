@@ -1,0 +1,1 @@
+# sandbox-dotinstall-textlint
