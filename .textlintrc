@@ -1,7 +1,7 @@
 {
   "rules": {
-    "max-ten": {
-      "max": 2
+    "preset-japanese": {
+      "no-dropping-the-ra": false
     }
   }
 }
