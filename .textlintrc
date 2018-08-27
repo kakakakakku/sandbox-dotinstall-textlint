@@ -1,5 +1,7 @@
 {
   "rules": {
-    "max-ten": true
+    "max-ten": {
+      "max": 2
+    }
   }
 }
