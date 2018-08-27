@@ -1,0 +1,23 @@
+{
+  "name": "sandbox-dotinstall-textlint",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kakakakakku/sandbox-dotinstall-textlint.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kakakakakku/sandbox-dotinstall-textlint/issues"
+  },
+  "homepage": "https://github.com/kakakakakku/sandbox-dotinstall-textlint#readme",
+  "devDependencies": {
+    "textlint": "^11.0.0"
+  }
+}
