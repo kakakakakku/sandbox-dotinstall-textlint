@@ -2,6 +2,11 @@
   "rules": {
     "preset-japanese": {
       "no-dropping-the-ra": false
+    },
+    "prh": {
+      "rulePaths": [
+        "rules/dotinstall.yml"
+      ]
     }
   }
 }
