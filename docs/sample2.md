@@ -1,0 +1,1 @@
+JavaScriptってJavaScriptだっけ？JavaScriptだっけ？それともJavaScript？
